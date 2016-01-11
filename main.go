@@ -15,7 +15,7 @@ func Logger(c *web.C, h http.Handler) http.Handler {
 		path:=req.URL.String()
 		if (len(path) >3) {
 			if (path[:4] == "/api") {
-				fmt.Printf("[%-3s]%-10s|%-6s\n", req.Method, start.Sub(finish), req.URL.String())
+				fmt.Printf("[%-3s]%-10s|%-6s\n", req.Method, finish.Sub(start), req.URL.String())
 			}
 		}
 	}
