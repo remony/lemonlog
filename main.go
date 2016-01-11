@@ -1,10 +1,10 @@
 package lemonlog
 
 import (
-	"net/http"
-	"github.com/zenazn/goji/web"
-	"time"
-	"fmt"
+"net/http"
+"github.com/zenazn/goji/web"
+"time"
+"fmt"
 )
 
 func Logger(c *web.C, h http.Handler) http.Handler {
