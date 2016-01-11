@@ -37,6 +37,7 @@
       <root url="file://$PROJECT_DIR$/../../satori/go.uuid/.git" />
       <root url="file://$PROJECT_DIR$/.idea" />
       <root url="file://$PROJECT_DIR$/../mysql/.git" />
+      <root url="file://$PROJECT_DIR$/.git" />
       <root url="file://$PROJECT_DIR$/../../zenazn/goji/.git" />
       <root url="file://$PROJECT_DIR$/../../mattn/go-isatty/_example" />
     </excluded>
