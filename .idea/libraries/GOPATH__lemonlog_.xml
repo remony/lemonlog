@@ -1,0 +1,44 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;lemonlog&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../github" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../.." />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$/../../../golang.org/x/net/html/charset/testdata" />
+      <root url="file://$PROJECT_DIR$/../../rs/xhandler/.git" />
+      <root url="file://$PROJECT_DIR$/../../nfnt/resize/.git" />
+      <root url="file://$PROJECT_DIR$/../../mattn/go-isatty/.git" />
+      <root url="file://$PROJECT_DIR$/../../go-gomail/gomail/.git" />
+      <root url="file://$PROJECT_DIR$/../../mattn/go-colorable/_example" />
+      <root url="file://$PROJECT_DIR$/../untitled1/.idea" />
+      <root url="file://$PROJECT_DIR$/../../franela/goblin/.git" />
+      <root url="file://$PROJECT_DIR$/../untitled/.idea" />
+      <root url="file://$PROJECT_DIR$/../../vincent-petithory/dataurl/.git" />
+      <root url="file://$PROJECT_DIR$/../../hypebeast/gojistatic/.git" />
+      <root url="file://$PROJECT_DIR$/../../fatih/color/.git" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org/x/net/html/testdata" />
+      <root url="file://$PROJECT_DIR$/../../mattn/go-colorable/.git" />
+      <root url="file://$PROJECT_DIR$/../../cxflag203/mysql/.git" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org/x/net/http2/testdata" />
+      <root url="file://$PROJECT_DIR$/../Equipment-Rental-API/client/.git" />
+      <root url="file://$PROJECT_DIR$/../../../github/remony/gotweet/.idea" />
+      <root url="file://$PROJECT_DIR$/../../rs/cors/.git" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org/x/net/.git" />
+      <root url="file://$PROJECT_DIR$/../Equipment-Rental-API/.git" />
+      <root url="file://$PROJECT_DIR$/../Equipment-Rental-API/.idea" />
+      <root url="file://$PROJECT_DIR$/../Equipment-Rental-API/client/.idea" />
+      <root url="file://$PROJECT_DIR$/../test/.idea" />
+      <root url="file://$PROJECT_DIR$/../../boombuler/barcode/.git" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/../../satori/go.uuid/.git" />
+      <root url="file://$PROJECT_DIR$/.idea" />
+      <root url="file://$PROJECT_DIR$/../mysql/.git" />
+      <root url="file://$PROJECT_DIR$/../../zenazn/goji/.git" />
+      <root url="file://$PROJECT_DIR$/../../mattn/go-isatty/_example" />
+    </excluded>
+  </library>
+</component>
